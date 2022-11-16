@@ -1,2 +1,1 @@
-Aldatu
-Berrize
+Eneko tonto
